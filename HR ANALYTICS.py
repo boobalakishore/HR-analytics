@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Importing Librearires
-# 
-
-# In[1]:
-
-
 import numpy as np
 import pandas as pd
 import seaborn as sns
